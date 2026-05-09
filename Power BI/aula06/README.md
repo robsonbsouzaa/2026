@@ -12,6 +12,13 @@
 | Nivus   |https://vigoritovw.com.br/wp-content/uploads/sites/5/2024/12/img_destacada_novo_nivus.png|
 | Gol     |https://www.evoyconsorcios.com.br/images/uploads/posts/vw-gol-destaque.png|
 
+
+| **Nome da Medida**  | **Formula**  |
+|--------------|--------------------|
+|Total de Vendas| COUNTROWS(Vendas) |
+|Receita Total  | SUMX(Vendas, RELATED(Veiculos[PrecoVenda])) + SUMX(VendasAcessorio,RELATED(acessorios[Preço])) |
+|Margem de Lucro | (SUMX(Vendas,RELATED(Veiculos[PrecoVenda])) - SUMX(Vendas,RELATED(Veiculos[PrecoCusto])))/ SUMX(Vendas,RELATED(Veiculos[PrecoVenda]))|
+
 Vamos desenvolver utilizando a pasta **Projeto Carro** o seguinte dashboard 
 <div align = "center">
   
