@@ -8,9 +8,9 @@
 | **Carro**   | **Link**  |
 |--------------|-----------|
 | Polo    | https://free.citycaraluguel.com.br/wp-content/uploads/2024/06/polo-track60c869f1b65c6148b0fa39064d020195-1024x474.png  |
-| T-Cross |https://toribaveiculos.com.br/wp-content/uploads/2025/01/200-TSI.png|
+| T-Cross |https://ik.imagekit.io/comparacar/volkswagen/t-cross/200-1.0-tsi-at/69ca82d96346abab4858eb97/69ca82d96346abab4858eb98?tr=w-828,q-75,bg-fff,f-auto|
 | Nivus   |https://vigoritovw.com.br/wp-content/uploads/sites/5/2024/12/img_destacada_novo_nivus.png|
-| Gol     |https://www.grandecastanhal.com.br/assets/uploads/nt_veiculos/37891-Banner-ve--culo.png?v=0.2|
+| Gol     |https://www.evoyconsorcios.com.br/images/uploads/posts/vw-gol-destaque.png|
 
 Vamos desenvolver utilizando a pasta **Projeto Carro** o seguinte dashboard 
 <div align = "center">
